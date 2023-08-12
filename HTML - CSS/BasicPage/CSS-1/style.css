@@ -1,0 +1,44 @@
+li{
+    color : red;
+    list-style-position: inside
+}
+
+h1{
+    color : purple;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+
+.panel{
+    text-align: center;
+    padding: 15px;
+    color: #C70039;
+}
+
+p{
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+    padding-top: 30px;
+}
+
+li{
+    padding-top: 15px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(69, 214, 78);
+}
