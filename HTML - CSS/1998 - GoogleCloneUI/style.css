@@ -1,0 +1,67 @@
+.location{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: 50%;
+}
+
+.box{
+    background-color: rgb(210, 210, 210);
+}
+
+.location-text{
+    text-align: center;
+  
+}
+
+.div2{
+    background-color: aquamarine;
+    width: 300px;
+    height: 70px;
+    padding: 10px;
+}
+.box1 {
+    text-align: center;
+    width: 36%;
+    height: 115px;
+    background-color: aqua;
+    float: left;
+    margin-top: 0px;
+    
+}
+
+.box2 {
+    text-align: center;
+    width: 18%;
+    height: 115px;
+    background-color: rgb(100, 198, 198);
+    font-size: small;
+    float: left;
+    margin-top: 0px;
+    
+    
+}
+
+.box3 {
+    text-align: center;
+    width: 45%;
+    height: 115px;
+    background-color: rgb(71, 141, 141);
+    font-size: small;
+    float: left;
+    margin-top: 0px;
+}
+
+
+
+.button {
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    clear: both;
+    height: auto;
+    width: auto;
+    margin-bottom: 100px;
+}
