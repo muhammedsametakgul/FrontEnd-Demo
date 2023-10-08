@@ -1,0 +1,52 @@
+input{
+    align-self: auto;
+    font-size: 25px;
+    border-radius: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+p{
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+#submit{
+    margin-top: 10px;
+    border-radius: 12px;
+    background-color: aquamarine;
+    size: 45px;
+    font-size: 25px;
+}
+
+.in-div{
+    display: flex;
+    justify-content: center;
+}
+
+#container{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    size: 150px;
+    border-radius: 15px;
+    background-color: aqua;
+}
+
+#out-div{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    size: 150px;
+}
+
+.seconder-div{
+    border-radius: 15px;
+    background-color: aqua;
+    margin-top: 15px;
+}
