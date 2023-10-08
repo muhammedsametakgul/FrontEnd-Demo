@@ -1,0 +1,28 @@
+#counter{
+    text-align: center;
+    font-size: 80px;
+}
+
+button{
+    size: 50px;
+    font-size: 25px;
+    border-radius: 12px;
+    background-color: rgb(63, 164, 253);
+    margin-bottom: 10px;
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    overflow: hidden; /* Taşan içeriği gizleyin */
+    white-space: nowrap; /* İçeriği tek satırda tutun */
+    text-overflow: ellipsis; /* İçerik taşarsa üç nokta (...) ile kırpın */
+  
+    gap:10px;
+}
+
+#background-div{
+    background-color: aqua;
+    border-radius: 8px;
+}
